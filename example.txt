@@ -1,7 +1,0 @@
-Hello World 
-New line :)
-Making this file a bit longer to test buffering and learn how it works.
-abc
-efg
-xyz
-Ending his file Here.
