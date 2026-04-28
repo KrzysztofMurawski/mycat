@@ -18,4 +18,8 @@ Requirements:
 
 `cmake -S . -B build/`
 
+`cd build/`
+
+`make`
+
 `sudo cmake --install build`
